@@ -1,3 +1,8 @@
 # Why Program
-
-print("hello world")
+def hlowrld():
+  print("hello world")
+def main():
+  hlowrld()
+  
+main()
+  
